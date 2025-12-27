@@ -4,7 +4,7 @@
 
 ##  Overview
 
-This project is a **computer vision–based parking spot detection and counting system** built using Python and OpenCV. It analyzes video footage of a parking lot to detect individual parking spaces, determine whether they are occupied or vacant, and display the number of available spots in real time.
+This project is a **computer vision–based parking spot detection and counting system** built using Python and sk-learn. It analyzes video footage of a parking lot to detect individual parking spaces, determine whether they are occupied or vacant, and display the number of available spots in real time.
 
 The system is designed to work on pre-recorded video input and demonstrates how image processing techniques can be applied to solve real-world smart parking problems.
 
