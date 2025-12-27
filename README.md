@@ -1,6 +1,6 @@
 
 
-# 🚗 Parking Spot Detection and Counter using Computer Vision
+# 🚗 Parking Analysis using Computer Vision
 
 ## 📌 Overview
 
