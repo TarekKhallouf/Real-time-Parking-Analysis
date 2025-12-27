@@ -1,8 +1,8 @@
 
 
-# 🚗 Parking Analysis using Computer Vision
+#  Parking Analysis using Computer Vision
 
-## 📌 Overview
+##  Overview
 
 This project is a **computer vision–based parking spot detection and counting system** built using Python and OpenCV. It analyzes video footage of a parking lot to detect individual parking spaces, determine whether they are occupied or vacant, and display the number of available spots in real time.
 
@@ -10,7 +10,7 @@ The system is designed to work on pre-recorded video input and demonstrates how 
 
 ---
 
-## 🎯 Features
+##  Features
 
 * Detects predefined parking spaces from video input
 * Classifies parking spots as **occupied or vacant**
@@ -18,7 +18,7 @@ The system is designed to work on pre-recorded video input and demonstrates how 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **OpenCV**
 * **NumPy**
@@ -27,7 +27,7 @@ The system is designed to work on pre-recorded video input and demonstrates how 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Video frames are captured and processed in real time
 2. Each frame undergoes preprocessing (grayscale, thresholding, noise reduction)
@@ -36,5 +36,3 @@ The system is designed to work on pre-recorded video input and demonstrates how 
 5. The system updates and displays the count of free and occupied spaces
 
 ---
-
-Just tell me 👍
