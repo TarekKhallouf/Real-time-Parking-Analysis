@@ -1,6 +1,4 @@
-Here’s a **clean, professional GitHub README** you can directly use or slightly customize for your project 👇
 
----
 
 # 🚗 Parking Spot Detection and Counter using Computer Vision
 
