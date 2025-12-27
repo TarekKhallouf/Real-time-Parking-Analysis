@@ -14,17 +14,16 @@ The system is designed to work on pre-recorded video input and demonstrates how 
 
 * Detects predefined parking spaces from video input
 * Classifies parking spots as **occupied or vacant**
-* Displays **real-time count** of available parking spaces
 * Annotated video output with visual indicators
-* Efficient and lightweight computer vision pipeline
 
 ---
 
 ## 🛠️ Technologies Used
 
-* **Python**
 * **OpenCV**
 * **NumPy**
+* **Sk-learn**
+
 
 ---
 
